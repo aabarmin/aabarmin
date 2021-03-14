@@ -9,7 +9,7 @@
 ### 💼 My talks
 
 * You write it with Spring - You test it with Spring - [code examples](https://github.com/aabarmin/epam-spring-testing)
-* * [Микросервисы со Spring Boot & Spring Cloud](https://youtu.be/2yAbbsuNBPc) - [code examples](https://github.com/aabarmin/epam-dsc-2019)
+* [Микросервисы со Spring Boot & Spring Cloud](https://youtu.be/2yAbbsuNBPc) - [code examples](https://github.com/aabarmin/epam-dsc-2019)
 * [SOLIDный чистый код на простых примерах](https://www.youtube.com/watch?v=StWB7NJjPZc) - [code examples](https://github.com/aabarmin/epam-techtrain2019)
 * [Путь в тысячу миль от монолита к микросервисам](https://youtu.be/D4JfXA7TToY)
 

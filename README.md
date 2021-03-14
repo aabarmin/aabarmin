@@ -24,4 +24,11 @@ My CV is [here](https://github.com/aabarmin/aabarmin/blob/main/CV%20Aleksandr%20
 
 ### 🩹 My fancy badge area
 
-Is under construction...
+![java](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=advanced)
+![javascript](https://img.shields.io/static/v1?logo=javascript&style=for-the-badge&label=Javascript&message=advanced)
+![python](https://img.shields.io/static/v1?logo=python&style=for-the-badge&label=python&message=intermediate)
+
+### 🤝 To keep in touch
+
+[ ![linkedin](https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&label=linkedin&message=abarmin)](https://www.linkedin.com/in/abarmin/)
+[ ![twitter](https://img.shields.io/static/v1?logo=twitter&style=for-the-badge&label=twitter&message=alexbarmin)](https://twitter.com/AlexBarmin)

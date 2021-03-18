@@ -6,8 +6,6 @@
 * 🐶 I have a corgi - see my photo.
 * 📫 Feel free to reach me by email [barmin.alexander@gmail.com](mailto:barmin.alexander@gmail.com).
 
-My CV is [here](https://github.com/aabarmin/aabarmin/blob/main/CV%20Aleksandr%20Barmin.pdf)
-
 ### 💼 My talks
 
 * [You write it with Spring - You test it with Spring](https://youtu.be/Ysh_jmEW6L0) - [director's cut](https://youtu.be/alDo8_8f-DE) - [code examples](https://github.com/aabarmin/epam-spring-testing)

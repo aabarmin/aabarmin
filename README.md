@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Aleksand Barmin
 
-* 💻 I'm lead software engineer at [EPAM Systems](http://epam.com/).
+* 💻 I'm chief software engineer at [EPAM Systems](http://epam.com/).
 * ☕ Most of the time I spend writing Java and JavaScript. Sometimes I write Python (not so often as I want but still).
 * 🚀 I have a few pet projects which I'm growing here at GitHub.
 * 🐶 I have a corgi - see my photo.

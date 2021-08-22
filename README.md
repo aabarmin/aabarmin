@@ -9,7 +9,9 @@
 
 ### 💼 My talks
 
-* Spring Cloud Contract
+* AWS Amplify (coming soon!)
+* AWS SAM (coming soon!)
+* [Spring Cloud Contract](https://youtu.be/YcDEfb8BYyE)
 * Где взять опыт работы в IT?
 * [You write it with Spring - You test it with Spring](https://youtu.be/Ysh_jmEW6L0) - [director's cut](https://youtu.be/alDo8_8f-DE) - [code examples](https://github.com/aabarmin/epam-spring-testing)
 * [Java 9 modules & OSGI](https://youtu.be/hemFuuAtdhE) - [code examples](https://github.com/aabarmin/epam-java-osgi-techtalk/branches)

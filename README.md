@@ -9,6 +9,7 @@
 
 ### 💼 My talks
 
+* Microservice Design Patterns (coming soon!)
 * AWS Amplify (coming soon!)
 * AWS SAM (coming soon!)
 * [Spring Cloud Contract](https://youtu.be/YcDEfb8BYyE)

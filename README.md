@@ -9,7 +9,7 @@
 
 ### 💼 My talks
 
-* Microservice Design Patterns (coming soon!)
+* Design Patterns for Microservices - [talk at Podlodka Techlead Crew](https://youtu.be/24-KpW3oCMw) - [slides](https://docs.google.com/presentation/d/15SQ3qWjG_xqcRt8gsUXulXHpAvmqjF0rZ3pRNuQxkSs/edit?usp=sharing)
 * AWS Amplify (coming soon!)
 * AWS SAM (coming soon!)
 * [Spring Cloud Contract](https://youtu.be/YcDEfb8BYyE)

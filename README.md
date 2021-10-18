@@ -28,9 +28,8 @@
 * [Использование семантической аннотации для идентификации требований](https://habr.com/en/post/126248/).
 * [Управление требованиями к IT-проектам](https://habr.com/en/post/114571/).
 
-### 🧑‍💻 Coding badges
+### 🧑‍💻 [HackerRank](https://www.hackerrank.com/ABarmin) badges
 
-![AWS Solution Architect Associate](https://raw.githubusercontent.com/aabarmin/aabarmin/main/images/aws/aws-saa.png)
 ![HackerRank Problem Solving](https://raw.githubusercontent.com/aabarmin/aabarmin/main/images/hackerrank/hackerrank-problem-solving.png)
 
 ### 🩹 My fancy badge area

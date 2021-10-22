@@ -31,6 +31,7 @@
 ### 🧑‍💻 [HackerRank](https://www.hackerrank.com/ABarmin) badges
 
 ![HackerRank Problem Solving](https://raw.githubusercontent.com/aabarmin/aabarmin/main/images/hackerrank/hackerrank-problem-solving.png)
+![HackerRank Java](https://raw.githubusercontent.com/aabarmin/aabarmin/main/images/hackerrank/hackerrank-java.png)
 
 ### 🩹 My fancy badge area
 

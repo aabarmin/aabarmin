@@ -9,17 +9,29 @@
 
 ### 💼 My talks
 
+#### 2021
+
 * [Design Patterns for Microservices](https://youtu.be/24-KpW3oCMw) - [slides](https://docs.google.com/presentation/d/15SQ3qWjG_xqcRt8gsUXulXHpAvmqjF0rZ3pRNuQxkSs/edit?usp=sharing)
 * [Building full-stack serverless app with AWS Amplify](https://youtu.be/Mm2NhBtwLng) - [slides](https://docs.google.com/presentation/d/13SGfL0CzqeE5yHbo_YrxzngjUtXz0pizAUkM3Wl9mx4/edit?usp=sharing) - [code examples](https://github.com/aabarmin/corgigram)
 * [AWS SAM](https://youtu.be/U1k0YGOmxBo) - [slides](https://docs.google.com/presentation/d/1M3rqKS7eyWBk0mSpl-gRPeLGtIZbmWNZ69m6Lfk0csA/edit?usp=sharing) - [code examples](https://github.com/aabarmin/aws-sam-example)
 * [Spring Cloud Contract](https://youtu.be/YcDEfb8BYyE)
 * [Где взять опыт работы в IT?](https://youtu.be/w_UtoQmfko0)
+
+#### 2020
+
+
 * [You write it with Spring - You test it with Spring](https://youtu.be/Ysh_jmEW6L0) - [director's cut](https://youtu.be/alDo8_8f-DE) - [code examples](https://github.com/aabarmin/epam-spring-testing)
 * [Java 9 modules & OSGI](https://youtu.be/hemFuuAtdhE) - [code examples](https://github.com/aabarmin/epam-java-osgi-techtalk/branches)
+
+#### 2019
+
 * [Q&A Карьерное развитие в EPAM](https://vk.com/videos-58536976?z=video-58536976_456239041)
 * [Java Puzzlers](https://youtu.be/HC-0urj5UTg)
 * [Микросервисы со Spring Boot & Spring Cloud](https://youtu.be/2yAbbsuNBPc) - [code examples](https://github.com/aabarmin/epam-dsc-2019)
 * [SOLIDный чистый код на простых примерах](https://www.youtube.com/watch?v=StWB7NJjPZc) - [code examples](https://github.com/aabarmin/epam-techtrain2019)
+
+#### 2018
+
 * [Путь в тысячу миль от монолита к микросервисам](https://youtu.be/D4JfXA7TToY)
 
 ### 📘 My articles

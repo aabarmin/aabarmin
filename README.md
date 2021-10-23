@@ -11,7 +11,7 @@
 
 * [Design Patterns for Microservices](https://youtu.be/24-KpW3oCMw) - [slides](https://docs.google.com/presentation/d/15SQ3qWjG_xqcRt8gsUXulXHpAvmqjF0rZ3pRNuQxkSs/edit?usp=sharing)
 * AWS Amplify (coming soon!)
-* AWS SAM (coming soon!)
+* [AWS SAM](https://youtu.be/U1k0YGOmxBo) - [slides](https://docs.google.com/presentation/d/1M3rqKS7eyWBk0mSpl-gRPeLGtIZbmWNZ69m6Lfk0csA/edit?usp=sharing)
 * [Spring Cloud Contract](https://youtu.be/YcDEfb8BYyE)
 * [Где взять опыт работы в IT?](https://youtu.be/w_UtoQmfko0)
 * [You write it with Spring - You test it with Spring](https://youtu.be/Ysh_jmEW6L0) - [director's cut](https://youtu.be/alDo8_8f-DE) - [code examples](https://github.com/aabarmin/epam-spring-testing)

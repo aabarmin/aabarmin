@@ -11,6 +11,7 @@
 
 #### 2021
 
+* 📻 [JavaHut #16: Java снова 17](https://anchor.fm/javahut/episodes/JavaHut-16-Java--17-e17eiba)
 * [Design Patterns for Microservices](https://youtu.be/24-KpW3oCMw) - [slides](https://docs.google.com/presentation/d/15SQ3qWjG_xqcRt8gsUXulXHpAvmqjF0rZ3pRNuQxkSs/edit?usp=sharing)
 * [Building full-stack serverless app with AWS Amplify](https://youtu.be/Mm2NhBtwLng) - [slides](https://docs.google.com/presentation/d/13SGfL0CzqeE5yHbo_YrxzngjUtXz0pizAUkM3Wl9mx4/edit?usp=sharing) - [code examples](https://github.com/aabarmin/corgigram)
 * [AWS SAM](https://youtu.be/U1k0YGOmxBo) - [slides](https://docs.google.com/presentation/d/1M3rqKS7eyWBk0mSpl-gRPeLGtIZbmWNZ69m6Lfk0csA/edit?usp=sharing) - [code examples](https://github.com/aabarmin/aws-sam-example)

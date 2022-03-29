@@ -10,6 +10,10 @@
 
 ### 💼 My talks
 
+#### 2022
+
+* [Running Spring Boot apps in AWS ECS](https://www.youtube.com/watch?v=TI0AEQYhbiA)
+
 #### 2021
 
 * Spring Cloud Goes Cloud - [slides](https://github.com/aabarmin/aabarmin/blob/main/talks/2021/2021-spring-cloud-goes-cloud.pdf) - [code examples](https://github.com/aabarmin/epam-spring-cloud-kubernetes-2021)

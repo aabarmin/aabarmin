@@ -12,7 +12,7 @@
 
 #### 2022
 
-* [Running Spring Boot apps in AWS ECS](https://www.youtube.com/watch?v=TI0AEQYhbiA)
+* [Running Spring Boot apps in AWS ECS](https://www.youtube.com/watch?v=TI0AEQYhbiA) - [slides](./talks/2022/2022-spring-boot-in-ecs.pdf) - [code examples](https://github.com/aabarmin/epam-ecs-java-example-2022)
 
 #### 2021
 

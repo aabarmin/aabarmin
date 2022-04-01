@@ -14,7 +14,7 @@
 
 * Running Spring Boot apps in AWS Elastic Beanstalk - [slides](./talks/2022/2022-spring-boot-in-elastic-beanstalk.pdf) - [code examples](https://github.com/aabarmin/epam-eb-example-2022)
 * [Running Spring Boot apps in AWS ECS](https://www.youtube.com/watch?v=TI0AEQYhbiA) - [slides](./talks/2022/2022-spring-boot-in-ecs.pdf) - [code examples](https://github.com/aabarmin/epam-ecs-java-example-2022)
-* Writing serverless app with AWS SAM - Java Version - slides - [code examples](https://github.com/aabarmin/epam-sam-java-example-2022)
+* Writing serverless app with AWS SAM - Java Version - [slides](./talks/2022/2022-java-and-aws-sam.pdf) - [code examples](https://github.com/aabarmin/epam-sam-java-example-2022)
 
 #### 2021
 

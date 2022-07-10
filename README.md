@@ -12,6 +12,7 @@
 
 #### 2022
 
+* 🎬 [(Plant)UML in practice](https://youtu.be/A4vBbr87oxw) - 🌆 [slides](https://github.com/aabarmin/epam-plantuml-in-practice-2022/blob/main/slides/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-plantuml-in-practice-2022)
 * 🎬 [Documentation as code](https://youtu.be/gMWzv9k8OfA) - 🌆 [slides](https://github.com/aabarmin/epam-documentation-as-code-examples-2022/blob/main/slides/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-documentation-as-code-examples-2022)
 * 🎬 [Spring Native: bird-eye view](https://youtu.be/FD4ksnA5zo4) - 🌆 [slides](https://github.com/aabarmin/epam-spring-native-example-2022/blob/main/slides/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-spring-native-example-2022)
 * 🎬 [Running Spring Boot apps in AWS Elastic Beanstalk](https://youtu.be/43ZKitMqjaQ) - 🌆 [slides](./talks/2022/2022-spring-boot-in-elastic-beanstalk.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-eb-example-2022)

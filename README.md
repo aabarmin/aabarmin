@@ -12,7 +12,7 @@
 
 #### 2022
 
-* TDD workshop - Coming Soon!
+* 🎬 [TDD With Spring Boot: practical session](https://www.youtube.com/watch?v=tajcoNYrY0I) - 🌆 [slides](https://github.com/aabarmin/epam-spring-boot-tdd-2022/blob/main/docs/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-spring-boot-tdd-2022)
 * 🎬 [(Plant)UML in practice](https://youtu.be/A4vBbr87oxw) - 🌆 [slides](https://github.com/aabarmin/epam-plantuml-in-practice-2022/blob/main/slides/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-plantuml-in-practice-2022)
 * 🎬 [Documentation as code](https://youtu.be/gMWzv9k8OfA) - 🌆 [slides](https://github.com/aabarmin/epam-documentation-as-code-examples-2022/blob/main/slides/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-documentation-as-code-examples-2022)
 * 🎬 [Spring Native: bird-eye view](https://youtu.be/FD4ksnA5zo4) - 🌆 [slides](https://github.com/aabarmin/epam-spring-native-example-2022/blob/main/slides/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-spring-native-example-2022)

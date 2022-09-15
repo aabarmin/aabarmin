@@ -67,4 +67,4 @@
 ### 🤝 To keep in touch
 
 [ ![linkedin](https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&label=linkedin&message=abarmin)](https://www.linkedin.com/in/abarmin/)
-[ ![twitter](https://img.shields.io/static/v1?logo=twitter&style=for-the-badge&label=twitter&message=alexbarmin)](https://twitter.com/AlexBarmin)
+[ ![twitter](https://img.shields.io/static/v1?logo=twitter&style=for-the-badge&label=twitter&message=AABarmin)](https://twitter.com/AABarmin)

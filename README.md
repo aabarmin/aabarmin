@@ -11,6 +11,10 @@
 
 ### 💼 My talks
 
+#### 2023
+
+* 🎬 [Design (anti-) patterns with Java and Python](https://youtu.be/_N8RGYYNnyM)
+
 #### 2022
 
 * 🎬 [TDD With Spring Boot: practical session](https://www.youtube.com/watch?v=tajcoNYrY0I) - 🌆 [slides](https://github.com/aabarmin/epam-spring-boot-tdd-2022/blob/main/docs/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-spring-boot-tdd-2022)

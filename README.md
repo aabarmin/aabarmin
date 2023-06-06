@@ -1,4 +1,4 @@
-![image](./images/profile/header.jpeg)
+![image](./images/profile/header.jpg)
 
 ### Hi there 👋 I'm Aleksand Barmin
 

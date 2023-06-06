@@ -1,3 +1,5 @@
+![image](./images/profile/header.jpeg)
+
 ### Hi there 👋 I'm Aleksand Barmin
 
 * 💻 I'm chief software engineer at [EPAM Systems](http://epam.com/).
@@ -13,14 +15,15 @@
 
 #### 2023
 
-* Design Patterns for Microservices - comming soon
+* 🎬 [GraalVM & Spring Native: 3.0 version](https://youtu.be/Tm-WZ0yPxm8) - 💻 [code examples](https://github.com/aabarmin/epam-spring-native-example-2022)
+* 🎬 [Design Patterns for Microservices](https://youtu.be/J9zU-KWMkK0)
 * 🎬 [Design (anti-) patterns with Java and Python](https://youtu.be/_N8RGYYNnyM)
 
 #### 2022
 
-* 🎬 [TDD With Spring Boot: practical session](https://www.youtube.com/watch?v=tajcoNYrY0I) - 🌆 [slides](https://github.com/aabarmin/epam-spring-boot-tdd-2022/blob/main/docs/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-spring-boot-tdd-2022)
+* 🎬 [TDD With Spring Boot: practical session](https://youtu.be/Vl20xbegWqc) - 🌆 [slides](https://github.com/aabarmin/epam-spring-boot-tdd-2022/blob/main/docs/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-spring-boot-tdd-2022)
 * 🎬 [(Plant)UML in practice](https://youtu.be/A4vBbr87oxw) - 🌆 [slides](https://github.com/aabarmin/epam-plantuml-in-practice-2022/blob/main/slides/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-plantuml-in-practice-2022)
-* 🎬 [Documentation as code](https://youtu.be/gMWzv9k8OfA) - 🌆 [slides](https://github.com/aabarmin/epam-documentation-as-code-examples-2022/blob/main/slides/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-documentation-as-code-examples-2022)
+* 🎬 [Documentation as code](https://youtu.be/A4vBbr87oxw) - 🌆 [slides](https://github.com/aabarmin/epam-documentation-as-code-examples-2022/blob/main/slides/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-documentation-as-code-examples-2022)
 * 🎬 [Spring Native: bird-eye view](https://youtu.be/FD4ksnA5zo4) - 🌆 [slides](https://github.com/aabarmin/epam-spring-native-example-2022/blob/main/slides/slides.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-spring-native-example-2022)
 * 🎬 [Running Spring Boot apps in AWS Elastic Beanstalk](https://youtu.be/43ZKitMqjaQ) - 🌆 [slides](./talks/2022/2022-spring-boot-in-elastic-beanstalk.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-eb-example-2022)
 * 🎬 [Running Spring Boot apps in AWS ECS](https://www.youtube.com/watch?v=TI0AEQYhbiA) - 🌆 [slides](./talks/2022/2022-spring-boot-in-ecs.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-ecs-java-example-2022)
@@ -28,13 +31,13 @@
 
 #### 2021
 
-* 🎬 [Spring Cloud Goes Cloud](https://youtu.be/4hYeX2WVt68) - 🌆 [slides](https://github.com/aabarmin/aabarmin/blob/main/talks/2021/2021-spring-cloud-goes-cloud.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-spring-cloud-kubernetes-2021)
+* 🎬 [Spring Cloud Goes Cloud](https://youtu.be/4tSyz_v9w7Q) - 🌆 [slides](https://github.com/aabarmin/aabarmin/blob/main/talks/2021/2021-spring-cloud-goes-cloud.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-spring-cloud-kubernetes-2021)
 * 📻 [JavaHut #16: Java снова 17](https://anchor.fm/javahut/episodes/JavaHut-16-Java--17-e17eiba)
-* 🎬 [Design Patterns for Microservices](https://youtu.be/24-KpW3oCMw) - 🌆 ~slides are lost~
+* 🎬 [Шаблоны проектирования для микросервисов](https://youtu.be/_RCiOo4Dv8w)
 * 🎬 [Building full-stack serverless app with AWS Amplify](https://youtu.be/Mm2NhBtwLng) - 🌆 [slides](https://docs.google.com/presentation/d/13SGfL0CzqeE5yHbo_YrxzngjUtXz0pizAUkM3Wl9mx4/edit?usp=sharing) - 💻 [code examples](https://github.com/aabarmin/corgigram)
-* 🎬 [AWS SAM](https://youtu.be/U1k0YGOmxBo) - 🌆 [slides](https://docs.google.com/presentation/d/1M3rqKS7eyWBk0mSpl-gRPeLGtIZbmWNZ69m6Lfk0csA/edit?usp=sharing) - 💻 [code examples](https://github.com/aabarmin/aws-sam-example)
+* 🎬 [AWS SAM - Serverless Application Model](https://youtu.be/zn7Saw8u3uw) - 🌆 [slides](https://docs.google.com/presentation/d/1M3rqKS7eyWBk0mSpl-gRPeLGtIZbmWNZ69m6Lfk0csA/edit?usp=sharing) - 💻 [code examples](https://github.com/aabarmin/aws-sam-example)
 * 🎬 [Spring Cloud Contract](https://youtu.be/YcDEfb8BYyE)
-* 🎬 [Где взять опыт работы в IT?](https://youtu.be/w_UtoQmfko0)
+* 🎬 [Где взять опыт работы в IT?](https://youtu.be/QUeea4g1j1I)
 
 #### 2020
 
@@ -44,13 +47,13 @@
 
 #### 2019
 
-* 🎬 [Java Puzzlers](https://youtu.be/HC-0urj5UTg)
-* 🎬 [Микросервисы со Spring Boot & Spring Cloud](https://youtu.be/2yAbbsuNBPc) - 💻 [code examples](https://github.com/aabarmin/epam-dsc-2019)
-* 🎬 [SOLIDный чистый код на простых примерах](https://www.youtube.com/watch?v=StWB7NJjPZc) - 💻 [code examples](https://github.com/aabarmin/epam-techtrain2019)
+* 🎬 Java Puzzlers
+* 🎬 [Микросервисы со Spring Boot & Spring Cloud](https://youtu.be/Ts7snqxS6Zk) - 💻 [code examples](https://github.com/aabarmin/epam-dsc-2019)
+* 🎬 [SOLIDный чистый код на простых примерах](https://youtu.be/WzHj_VQpdIM) - 💻 [code examples](https://github.com/aabarmin/epam-techtrain2019)
 
 #### 2018
 
-* 🎬 [Путь в тысячу миль от монолита к микросервисам](https://youtu.be/D4JfXA7TToY)
+* 🎬 Путь в тысячу миль от монолита к микросервисам
 
 ### 📘 My articles
 

@@ -15,6 +15,8 @@
 
 #### 2023
 
+* 🎬 [What's new in Java 21 LTS?](https://youtu.be/gxkzjaXm-Lc)
+* 🎬 [Technical interview for Java Software Engineer position](https://youtu.be/zUPZCFv4epc)
 * 🎬 [GraalVM & Spring Native: 3.0 version](https://youtu.be/Tm-WZ0yPxm8) - 💻 [code examples](https://github.com/aabarmin/epam-spring-native-example-2022)
 * 🎬 [Design Patterns for Microservices](https://youtu.be/J9zU-KWMkK0)
 * 🎬 [Design (anti-) patterns with Java and Python](https://youtu.be/_N8RGYYNnyM)

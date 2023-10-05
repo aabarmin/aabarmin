@@ -15,6 +15,7 @@
 
 #### 2023
 
+* 🎬 [Embracing predictability in software engineering](https://youtu.be/d5KbSCdvmR0)
 * 🎬 [What's new in Java 21 LTS?](https://youtu.be/gxkzjaXm-Lc)
 * 🎬 [Technical interview for Java Software Engineer position](https://youtu.be/zUPZCFv4epc)
 * 🎬 [GraalVM & Spring Native: 3.0 version](https://youtu.be/Tm-WZ0yPxm8) - 💻 [code examples](https://github.com/aabarmin/epam-spring-native-example-2022)

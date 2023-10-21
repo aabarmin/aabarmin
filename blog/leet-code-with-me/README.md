@@ -7,3 +7,5 @@
 ## Season 1
 
 * [Episode 1 - Two Sum](./e1-two-sum.md) - 🎬 [Watch on YouTube](https://youtu.be/01G1b2HZoTg?si=kNqQOMtbNk2iBkmi)
+* [Episode 2 - Add Two Numbers](./e2-add-two-numbers.md) - 🎬 [Watch on YouTube](https://youtu.be/bd0pcjYHVjk?si=6JEVM88-elGszhRO)
+* [Episode 3 - Longest Substring Without Repeating Characters](./e3-longest-substring-without-repeating-characters.md) - 🎬 [Watch on YouTube](https://youtu.be/cVTddh7oBcU?si=HC8vUyO_mr2b-esB)

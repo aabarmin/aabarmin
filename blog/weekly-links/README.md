@@ -25,3 +25,13 @@
 * [Replacing Postman with JetBrains HTTP Client](https://foojay.io/today/replacing-postman-with-the-jetbrains-http-client/)
 * [How to take risks](https://markmanson.net/risk)
 * [Dynamic programming algorithms every programmer should know](https://dev.to/rishitashaw/dynamic-programming-algorithms-every-programmer-should-know-3915)
+
+### Episode 3
+
+[Watch on YouTube](https://youtu.be/BmQf5xOa60o?si=vLpgZ63gNpYnugjM)
+
+* [Free Courses to learn Docker and containers in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-docker-and-containers-in-2023-1ldo)
+* [VS Code extensions that will improve your developers productivity](https://dev.to/j471n/vs-code-extensions-to-take-your-coding-to-the-next-level-50od)
+* [Java 20, new features overview](https://inside.java/2023/04/22/sip074/)
+* [Well-maintained software](https://henrikwarne.com/2023/04/23/well-maintained-software/)
+* [Spring Transaction and connection management](https://vladmihalcea.com/spring-transaction-connection-management/)

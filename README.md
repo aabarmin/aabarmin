@@ -14,6 +14,7 @@
 ### 📀 [YouTube](https://www.youtube.com/@ABarmin) shows
 
 * 📘 [Weekly Links](./blog/weekly-links/)
+* 📘 [[LEET] Code with me](./blog/leet-code-with-me/)
 
 ### 💼 My talks
 

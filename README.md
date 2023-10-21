@@ -11,6 +11,10 @@
 * 🐶 I have a corgi - see my photo.
 * 📫 Feel free to reach me by email [abarmin@outlook.com](mailto:abarmin@outlook.com).
 
+### 📀 [YouTube](https://www.youtube.com/@ABarmin) shows
+
+* 📘 [Weekly Links](./blog/weekly-links/)
+
 ### 💼 My talks
 
 #### 2023

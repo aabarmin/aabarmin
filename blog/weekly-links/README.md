@@ -15,3 +15,13 @@
 * [Event-stores as key-value databases](https://event-driven.io/en/event_stores_are_key_value_stores/)
 * [Postgres Superpowers in Practice](https://event-driven.io/en/postgres_superpowers/)
 * [Real-Time Messaging Architecture at Slack](https://www.infoq.com/news/2023/04/real-time-messaging-slack/)
+
+### Episode 2
+
+[Watch on YouTube](https://youtu.be/8gK-ULmcKPQ?si=zA-3NFBBCvCTHVsD)
+
+* [Getting started with Jakarta REST](https://foojay.io/today/getting-started-with-jakarta-ee-10-jakarta-rest/)
+* [JavaFX 20 and Beyound](https://inside.java/2023/04/16/levelup-javafx/)
+* [Replacing Postman with JetBrains HTTP Client](https://foojay.io/today/replacing-postman-with-the-jetbrains-http-client/)
+* [How to take risks](https://markmanson.net/risk)
+* [Dynamic programming algorithms every programmer should know](https://dev.to/rishitashaw/dynamic-programming-algorithms-every-programmer-should-know-3915)

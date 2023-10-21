@@ -35,3 +35,13 @@
 * [Java 20, new features overview](https://inside.java/2023/04/22/sip074/)
 * [Well-maintained software](https://henrikwarne.com/2023/04/23/well-maintained-software/)
 * [Spring Transaction and connection management](https://vladmihalcea.com/spring-transaction-connection-management/)
+
+### Episode 4
+
+[Watch on YouTube](https://youtu.be/3AeRz8NpCxY?si=MtFq-ZqkVIJiPCJm)
+
+* [Serialize and Deserialize with `@JsonView` and Spring Boot](https://reflectoring.io/jackson-jsonview-tutorial/)
+* [Free Courses to learn design patterns](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-design-patterns-in-depth-5dp5)
+* [How to provision infrastructure in AWS with Terraform](https://dev.to/aws-builders/provisioning-aws-infrastructure-using-terraform-and-jenkins-cicd-pgj)
+* [GitHub Copilot CLI  helps with git](https://dev.to/this-is-learning/github-copilot-x-cli-is-your-new-git-assistant-1edn)
+* [Hibernate default entity sequence](https://vladmihalcea.com/hibernate-default-entity-sequence/)

@@ -2,7 +2,7 @@
 
 > "Weekly Links" is my first YouTube show where I share news from the Java world and my opinion regarding it. 
 
-🎬 [Full Playlist on YouTube](https://youtube.com/playlist?list=PLvo_NnRjK7R1iQ085YDD9UVxsHy9u4MDu&si=CPBxpD3S0-0ZwVii)
+🎬 [Watch on YouTube](https://youtube.com/playlist?list=PLvo_NnRjK7R1iQ085YDD9UVxsHy9u4MDu&si=CPBxpD3S0-0ZwVii)
 
 ## Season 1
 

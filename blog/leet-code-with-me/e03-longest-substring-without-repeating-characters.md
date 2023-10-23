@@ -1,4 +1,4 @@
-# Episode - Template
+# Episode 3 - Longer Substring Without Repeating Characters
 
 ⬅️ [Back to index](README.md)
 

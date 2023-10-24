@@ -1,4 +1,4 @@
-# Episode - Template
+# Episode 3 - Longest Substring without repeating characters
 
 ⬅️ [Back to index](README.md)
 

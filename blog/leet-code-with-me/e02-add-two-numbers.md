@@ -1,4 +1,4 @@
-# Episode - Template
+# Episode 2 - Add two numbers
 
 ⬅️ [Back to index](README.md)
 

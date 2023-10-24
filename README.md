@@ -13,8 +13,8 @@
 
 ### 📀 [YouTube](https://www.youtube.com/@ABarmin) shows
 
-* 📘 [Weekly Links](./blog/weekly-links/)
-* 📘 [[LEET] Code with me](./blog/leet-code-with-me/)
+* 📘 [Weekly Links](./blog/weekly-links/README.md)
+* 📘 [[LEET] Code with me](./blog/leet-code-with-me/README.md)
 
 ### 💼 My talks
 

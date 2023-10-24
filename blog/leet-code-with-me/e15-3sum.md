@@ -1,4 +1,4 @@
-# Episode - Template
+# Episode 15 - 3Sum
 
 ⬅️ [Back to index](README.md)
 

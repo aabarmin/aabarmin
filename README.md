@@ -20,6 +20,7 @@
 
 #### 2023
 
+* 🎬 [Cracking Technical Interviews: High-level overview of the process](https://youtu.be/0dyyFyAeB7k)
 * 📻 [Java Hut #21: Двадцать одно LTS](https://pod.link/javahut/episode/70ce52b6336edd5f4ccb45f50bf60e15)
 * 🎬 [Embracing predictability in software engineering](https://youtu.be/d5KbSCdvmR0)
 * 🎬 [What's new in Java 21 LTS?](https://youtu.be/gxkzjaXm-Lc)

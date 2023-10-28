@@ -11,3 +11,6 @@
 * [Episode 3 - Longest Substring Without Repeating Characters](./e03-longest-substring-without-repeating-characters.md) - 🎬 [Watch on YouTube](https://youtu.be/cVTddh7oBcU?si=HC8vUyO_mr2b-esB)
 * ...
 * [Episode 15 - 3Sum](./e15-3sum.md)
+* [Episode 16 - 3Sum Closest](./e16-3sum-closest.md)
+* [Episode 17 - Letter Combinations of a Phone Number](./e17-letter-combination-of-phone-number.md)
+* [Episode 18 - 4Sum](./e18-4sum.md)

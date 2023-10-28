@@ -1,4 +1,4 @@
-# Episode 3 - Longer Substring Without Repeating Characters
+# Episode 3 - Longest Substring without repeating characters
 
 ⬅️ [Back to index](README.md)
 

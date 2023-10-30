@@ -18,3 +18,4 @@
 * [Episode 18 - 4Sum](./e18-4sum.md)
 * [Episode 19 - Remove Nth node from end of list](./e19-remove-nth-node-from-end-of-list.md)
 * [Episode 20 - Valid Parentheses](./e20-valid-parentheses.md)
+* [Episode 21 - Merge Two Sorted Lists](./e21-merge-two-sorted-lists.md)

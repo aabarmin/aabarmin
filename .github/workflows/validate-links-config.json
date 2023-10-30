@@ -1,0 +1,16 @@
+{
+    "ignorePatterns": [
+        {
+            "pattern": "https://www.linkedin.com/in/abarmin/"
+        },
+        {
+            "pattern": "^https://blog.frankel.ch"
+        },
+        {
+            "pattern": "^https://blogs.oracle.com"
+        },
+        {
+            "pattern": "^https://www.baeldung.com"
+        }
+    ]
+}

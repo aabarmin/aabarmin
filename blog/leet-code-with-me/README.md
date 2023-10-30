@@ -15,3 +15,4 @@
 * [Episode 17 - Letter Combinations of a Phone Number](./e17-letter-combination-of-phone-number.md)
 * [Episode 18 - 4Sum](./e18-4sum.md)
 * [Episode 19 - Remove Nth node from end of list](./e19-remove-nth-node-from-end-of-list.md)
+* [Episode 20 - Valid Parentheses](./e20-valid-parentheses.md)

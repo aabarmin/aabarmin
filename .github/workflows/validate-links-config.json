@@ -8,6 +8,9 @@
         },
         {
             "pattern": "^https://blogs.oracle.com"
+        },
+        {
+            "pattern": "^https://www.baeldung.com"
         }
     ]
 }

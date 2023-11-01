@@ -9,6 +9,7 @@
 * [Episode 1 - Two Sum](./e01-two-sum.md) - 🎬 [Watch on YouTube](https://youtu.be/01G1b2HZoTg?si=kNqQOMtbNk2iBkmi)
 * [Episode 2 - Add Two Numbers](./e02-add-two-numbers.md) - 🎬 [Watch on YouTube](https://youtu.be/bd0pcjYHVjk?si=6JEVM88-elGszhRO)
 * [Episode 3 - Longest Substring Without Repeating Characters](./e03-longest-substring-without-repeating-characters.md) - 🎬 [Watch on YouTube](https://youtu.be/cVTddh7oBcU?si=HC8vUyO_mr2b-esB)
+* [Episode 4 - Median of Two Sorted Arrays](./e04-median-of-two-sorted-arrays.md) - 🎬 [Watch on YouTube](https://youtu.be/sHB975Op6kI?si=dwGAHin5KwGXf6ad)
 * ...
 * [Episode 11 - Container With Most Water](./e11-container-with-most-water.md) - 🎬 [Watch on YouTube](https://youtu.be/Jdn_1iqP1iY?si=TWgixZ9zMIy3PpW7)
 * ...

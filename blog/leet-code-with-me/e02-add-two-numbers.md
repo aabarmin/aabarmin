@@ -12,6 +12,10 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 ## The solution
 
+We have two linked lists and every node in every list has a value `val`. Because it is a digit, it is `0 < val < 9` but the sum of two `val`'s might be more than 10 so that when creating a node in the result list it is necessary to keep it mind. 
+
+The approach is simple, let's assume that the `rest` is `0` by default and while any of lists has next node, we read nodes, add `val` from one node to the `val` from another, don't forget to add `rest`. 
+
 ```java
 class ListNode {
     int val;

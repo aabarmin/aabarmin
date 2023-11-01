@@ -10,6 +10,12 @@ Given a string s, find the length of the longest substring without repeating cha
 
 ## The solution
 
+This is a sliding window problem. Overall approach to solving such kind of challenges it to have two pointers - one points to the left side of the window, another points to the right side of the window. Also it is necessary to define a condition that checks that the value of the window, for example, all the elements are in the ascending order, all the elements are number, etc. 
+
+While the condition is met, it is necessary to move right pointer to the end of the initial collection. If the condition is not longer met, it is necessary to move the left pointer forward. 
+
+For this exact challenge we also introduce a `seen` map that allows us to track positions of all the seen characters so that it will be easier to check if there any repetitions in the window. 
+
 ```java
 class Solution {
     public int lengthOfLongestSubstring(String s) {

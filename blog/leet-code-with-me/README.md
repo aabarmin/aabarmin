@@ -14,6 +14,7 @@
 * [Episode 6 - Zigzag Conversion](./e06-zigzag-conversion.md) - 🎬 [Watch on YouTube](https://youtu.be/inKHNzj74Bo?si=sBUk102ia_zFXpiq)
 * ...
 * [Episode 11 - Container With Most Water](./e11-container-with-most-water.md) - 🎬 [Watch on YouTube](https://youtu.be/Jdn_1iqP1iY?si=TWgixZ9zMIy3PpW7)
+* [Episode 12 - Integer to Roman](./e12-integer-to-roman.md)
 * ...
 * [Episode 15 - 3Sum](./e15-3sum.md)
 

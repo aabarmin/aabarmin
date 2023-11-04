@@ -15,6 +15,7 @@
 * ...
 * [Episode 11 - Container With Most Water](./e11-container-with-most-water.md) - 🎬 [Watch on YouTube](https://youtu.be/Jdn_1iqP1iY?si=TWgixZ9zMIy3PpW7)
 * [Episode 12 - Integer to Roman](./e12-integer-to-roman.md)
+* [Episode 13 - Roman to Integer](./e13-roman-to-integer.md)
 * ...
 * [Episode 15 - 3Sum](./e15-3sum.md)
 

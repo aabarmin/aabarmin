@@ -14,10 +14,10 @@
 * [Episode 6 - Zigzag Conversion](./e06-zigzag-conversion.md) - 🎬 [Watch on YouTube](https://youtu.be/inKHNzj74Bo?si=sBUk102ia_zFXpiq)
 * ...
 * [Episode 11 - Container With Most Water](./e11-container-with-most-water.md) - 🎬 [Watch on YouTube](https://youtu.be/Jdn_1iqP1iY?si=TWgixZ9zMIy3PpW7)
-* [Episode 12 - Integer to Roman](./e12-integer-to-roman.md)
-* [Episode 13 - Roman to Integer](./e13-roman-to-integer.md)
-* [Episode 14 - Longest Common Prefix](./e14-longest-common-prefix.md)
-* [Episode 15 - 3Sum](./e15-3sum.md)
+* [Episode 12 - Integer to Roman](./e12-integer-to-roman.md) - 🎬 [Watch on YouTube](https://youtu.be/7c1GfW45ubI?si=h37hrIOVAoyfGqIN)
+* [Episode 13 - Roman to Integer](./e13-roman-to-integer.md) - 🎬 [Watch on YouTube](https://youtu.be/TrqgbVXfhZk?si=Im170dPtAKHh7FmS)
+* [Episode 14 - Longest Common Prefix](./e14-longest-common-prefix.md) - 🎬 [Watch on YouTube](https://youtu.be/SR0sEBAVWeM?si=FXltQLgceuqNE39_)
+* [Episode 15 - 3Sum](./e15-3sum.md) - 🎬 [Watch on YouTube](https://youtu.be/DKE7YkHVIm4?si=CcvIDVqecA9C06BG)
 
 ## Season 2
 

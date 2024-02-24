@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Aleksand Barmin
 
-* 💻 I'm chief software engineer at [EPAM Systems](http://epam.com/).
+* 💻 I'm senior software engineer at [Wise](http://wise.com/).
 * 🗞 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f37ba42b-3eb4-4104-8103-3c4e2400daa5).
 * 🗞 [AWS Certified Developer – Associate](https://www.credly.com/badges/7f2585b8-94a9-4972-9708-7e25dd38af30).
 * 🗞 [AWS Certified SysOps Administrator - Associate](https://www.credly.com/earner/earned/badge/814d0cdd-79c5-4f38-a08e-b7ef39e3f5ca).

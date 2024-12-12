@@ -18,6 +18,33 @@
 
 ### 💼 My talks
 
+#### 2024
+
+* 🎬 [System Design Interview - Google Docs](https://youtu.be/9VUnUtPZ8xg)
+* 📻 [JavaSwag #72 - Enterprise and Spring Framework evolution](https://javaswag.github.io/episode/72/)
+
+**Spring Context**
+
+* 🎬 [Spring Context Internals](https://youtu.be/z80dBP31QIs)
+* 🎬 [Configuring Spring Context](https://youtu.be/RjdS08YiYoU)
+* 🎬 [Creating your own Spring Boot Starter](https://youtu.be/hLq4LtKzoaY)
+
+**Spring Boot**
+
+* 🎬 [Spring Test Essentials](https://youtu.be/lt8cR2f2uAA)
+* 🎬 [Spring MVC Test](https://youtu.be/ssMLbh3Qbbw)
+* 🎬 [Spring Data JPA Test](https://youtu.be/osySGfL1T7w)
+* 🎬 [Spring Boot Test](https://youtu.be/BLP-ce0r6Ck)
+* 🎬 [Spring Boot Observability with Actuator](https://youtu.be/i-aYhJEnhqY)
+
+**Spring Security**
+
+* 🎬 [Spring Security Basics](https://youtu.be/j_yCJxzJNPw)
+* 🎬 [Spring Seucrity Authorization](https://youtu.be/JnjaSiL1tIc)
+* 🎬 [Spring Security and Google Auth login](https://youtu.be/z0BVYIVwUNk)
+* 🎬 [Spring Security and JWT](https://youtu.be/WJsUXqWyT0w)
+* 🎬 [Spring Security and custom authorization server](https://youtu.be/9-Vwmeev3ek)
+
 #### 2023
 
 * 🎬 [Cracking Technical Interviews: High-level overview of the process](https://youtu.be/0dyyFyAeB7k)

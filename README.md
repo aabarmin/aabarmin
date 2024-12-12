@@ -80,7 +80,7 @@
 
 * 🎬 [You write it with Spring - You test it with Spring](https://youtu.be/Ysh_jmEW6L0) - 🎬 [director's cut](https://youtu.be/alDo8_8f-DE) - 💻 [code examples](https://github.com/aabarmin/epam-spring-testing)
 * 🎬 [Java 9 modules & OSGI](https://youtu.be/hemFuuAtdhE) - 💻 [code examples](https://github.com/aabarmin/epam-java-osgi-techtalk/branches)
-* 🎬 [Q&A Карьерное развитие в EPAM](https://vk.com/videos-58536976?z=video-58536976_456239041)
+* 🎬 Q&A Карьерное развитие в EPAM
 
 #### 2019
 

@@ -4,8 +4,6 @@
 
 ## The task
 
-[Challenge on LeetCode](https://leetcode.com/problems/3sum/)
-
 Put task definition here
 
 ## Suboptimal solution

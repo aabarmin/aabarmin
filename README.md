@@ -18,6 +18,33 @@
 
 ### 💼 My talks
 
+#### 2024
+
+* 🎬 [System Design Interview - Google Docs](https://youtu.be/9VUnUtPZ8xg)
+* 📻 [JavaSwag #72 - Enterprise and Spring Framework evolution](https://javaswag.github.io/episode/72/)
+
+**Spring Context**
+
+* 🎬 [Spring Context Internals](https://youtu.be/z80dBP31QIs)
+* 🎬 [Configuring Spring Context](https://youtu.be/RjdS08YiYoU)
+* 🎬 [Creating your own Spring Boot Starter](https://youtu.be/hLq4LtKzoaY)
+
+**Spring Boot**
+
+* 🎬 [Spring Test Essentials](https://youtu.be/lt8cR2f2uAA)
+* 🎬 [Spring MVC Test](https://youtu.be/ssMLbh3Qbbw)
+* 🎬 [Spring Data JPA Test](https://youtu.be/osySGfL1T7w)
+* 🎬 [Spring Boot Test](https://youtu.be/BLP-ce0r6Ck)
+* 🎬 [Spring Boot Observability with Actuator](https://youtu.be/i-aYhJEnhqY)
+
+**Spring Security**
+
+* 🎬 [Spring Security Basics](https://youtu.be/j_yCJxzJNPw)
+* 🎬 [Spring Seucrity Authorization](https://youtu.be/JnjaSiL1tIc)
+* 🎬 [Spring Security and Google Auth login](https://youtu.be/z0BVYIVwUNk)
+* 🎬 [Spring Security and JWT](https://youtu.be/WJsUXqWyT0w)
+* 🎬 [Spring Security and custom authorization server](https://youtu.be/9-Vwmeev3ek)
+
 #### 2023
 
 * 🎬 [Cracking Technical Interviews: High-level overview of the process](https://youtu.be/0dyyFyAeB7k)
@@ -44,7 +71,7 @@
 * 🎬 [Spring Cloud Goes Cloud](https://youtu.be/4tSyz_v9w7Q) - 🌆 [slides](https://github.com/aabarmin/aabarmin/blob/main/talks/2021/2021-spring-cloud-goes-cloud.pdf) - 💻 [code examples](https://github.com/aabarmin/epam-spring-cloud-kubernetes-2021)
 * 📻 [JavaHut #16: Java снова 17](https://anchor.fm/javahut/episodes/JavaHut-16-Java--17-e17eiba)
 * 🎬 [Шаблоны проектирования для микросервисов](https://youtu.be/_RCiOo4Dv8w)
-* 🎬 [Building full-stack serverless app with AWS Amplify](https://youtu.be/Mm2NhBtwLng) - 💻 [code examples](https://github.com/aabarmin/corgigram)
+* 🎬 [Building full-stack serverless app with AWS Amplify](https://youtu.be/Mm2NhBtwLng)
 * 🎬 [AWS SAM - Serverless Application Model](https://youtu.be/zn7Saw8u3uw) - 💻 [code examples](https://github.com/aabarmin/aws-sam-example)
 * 🎬 [Spring Cloud Contract](https://youtu.be/YcDEfb8BYyE)
 * 🎬 [Где взять опыт работы в IT?](https://youtu.be/QUeea4g1j1I)
@@ -53,7 +80,7 @@
 
 * 🎬 [You write it with Spring - You test it with Spring](https://youtu.be/Ysh_jmEW6L0) - 🎬 [director's cut](https://youtu.be/alDo8_8f-DE) - 💻 [code examples](https://github.com/aabarmin/epam-spring-testing)
 * 🎬 [Java 9 modules & OSGI](https://youtu.be/hemFuuAtdhE) - 💻 [code examples](https://github.com/aabarmin/epam-java-osgi-techtalk/branches)
-* 🎬 [Q&A Карьерное развитие в EPAM](https://vk.com/videos-58536976?z=video-58536976_456239041)
+* 🎬 Q&A Карьерное развитие в EPAM
 
 #### 2019
 

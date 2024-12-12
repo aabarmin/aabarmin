@@ -62,7 +62,7 @@
 
 * [How to host your pet project for free](https://dev.to/livecycle/how-to-host-your-side-projects-for-free-in-2023-from-auth-to-database-42im)
 * [Amazing React Libraries for everyone](https://dev.to/arafat4693/top-react-libraries-for-developers-33gb)
-* [Migrating a pet project to Quarkus](https://saile.it/migrating-project-quarkus/)
+* Migrating a pet project to Quarkus
 * [Objects utility class](https://inside.java/2023/05/28/sip078/)
 * [Quarkus Active Record vs Repository](https://blog.sebastian-daschner.com/entries/quarkus-panache-active-record-vs-repository-pattern)
 

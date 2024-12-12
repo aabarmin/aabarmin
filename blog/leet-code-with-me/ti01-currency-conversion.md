@@ -1,4 +1,4 @@
-# Episode TI 1- Currency Conversion
+# Episode TI 1 - Currency Conversion
 
 ⬅️ [Back to index](README.md)
 

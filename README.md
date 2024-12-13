@@ -40,7 +40,7 @@
 **Spring Security**
 
 * 🎬 [Spring Security Basics](https://youtu.be/j_yCJxzJNPw)
-* 🎬 [Spring Seucrity Authorization](https://youtu.be/JnjaSiL1tIc)
+* 🎬 [Spring Security Authorization](https://youtu.be/JnjaSiL1tIc)
 * 🎬 [Spring Security and Google Auth login](https://youtu.be/z0BVYIVwUNk)
 * 🎬 [Spring Security and JWT](https://youtu.be/WJsUXqWyT0w)
 * 🎬 [Spring Security and custom authorization server](https://youtu.be/9-Vwmeev3ek)
